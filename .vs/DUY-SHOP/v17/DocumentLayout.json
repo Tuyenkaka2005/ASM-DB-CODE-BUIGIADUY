@@ -1,0 +1,391 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|c:\\users\\nguye\\downloads\\duy-shop\\duy-shop\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\warehousemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\warehousemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\manageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\manageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\manageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\manageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\managecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\managecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\managecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\managecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\manageimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\manageimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\manageimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\manageimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\managecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\managecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\managecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\managecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\managecategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\managecategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|C:\\Users\\nguye\\Downloads\\DUY-SHOP\\duy-shop\\warehousemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85334F0-A142-437C-B22C-A8F140F4D203}|DUY-SHOP\\DUY-SHOP.csproj|solutionrelative:duy-shop\\warehousemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WarehouseManagerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\WarehouseManagerForm.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\WarehouseManagerForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\WarehouseManagerForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\WarehouseManagerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:34:17.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\AdminForm.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\AdminForm.cs [Design]",
+              "RelativeToolTip": "DUY-SHOP\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:30:19.319Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\SaleForm.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\SaleForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\SaleForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\SaleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:35:23.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\ManageCustomer.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\ManageCustomer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\ManageCustomer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\ManageCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:06:03.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\ManageCustomer.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\ManageCustomer.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\ManageCustomer.cs",
+              "RelativeToolTip": "DUY-SHOP\\ManageCustomer.cs",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAAwAoBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:30:02.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\AdminForm.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\AdminForm.cs",
+              "RelativeToolTip": "DUY-SHOP\\AdminForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAtwDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:30:48.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\ManageProduct.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\ManageProduct.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\ManageProduct.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\ManageProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:08:45.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageProduct.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\ManageProduct.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\ManageProduct.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\ManageProduct.cs",
+              "RelativeToolTip": "DUY-SHOP\\ManageProduct.cs",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAAAH4BAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:20:39.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\LoginForm.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\LoginForm.cs",
+              "RelativeToolTip": "DUY-SHOP\\LoginForm.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwGAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:41:27.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\LoginForm.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:28:36.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderHistory.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\OrderHistory.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\OrderHistory.cs",
+              "RelativeToolTip": "DUY-SHOP\\OrderHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:49:58.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\OrderHistory.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\OrderHistory.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\OrderHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:48:26.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\ManageEmployee.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\ManageEmployee.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\ManageEmployee.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\ManageEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:29:18.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManageImport.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\ManageImport.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\ManageImport.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\ManageImport.cs",
+              "RelativeToolTip": "DUY-SHOP\\ManageImport.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAnwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:29:43.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageImport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\ManageImport.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\ManageImport.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\ManageImport.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\ManageImport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:28:24.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\ManageEmployee.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\ManageEmployee.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\ManageEmployee.cs",
+              "RelativeToolTip": "DUY-SHOP\\ManageEmployee.cs",
+              "ViewState": "AgIAALgBAAAAAAAAAAAawEkBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:24:11.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageCategory.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\ManageCategory.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\ManageCategory.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\ManageCategory.cs",
+              "RelativeToolTip": "DUY-SHOP\\ManageCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:03:31.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManageCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\ManageCategory.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\ManageCategory.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\ManageCategory.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ASUS\\source\\repos\\DUY-SHOP\\DUY-SHOP\\ManageCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:01:19.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\DatabaseConnection.cs",
+              "RelativeToolTip": "DUY-SHOP\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAwAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:24:28.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\Program.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\Program.cs",
+              "RelativeToolTip": "DUY-SHOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:37:20.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManageCategory.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\ManageCategory.Designer.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\ManageCategory.Designer.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\ManageCategory.Designer.cs",
+              "RelativeToolTip": "DUY-SHOP\\ManageCategory.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:43:30.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SaleForm.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\SaleForm.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\SaleForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\SaleForm.cs",
+              "RelativeToolTip": "DUY-SHOP\\SaleForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:35:25.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WarehouseManagerForm.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\WarehouseManagerForm.cs",
+              "RelativeDocumentMoniker": "DUY-SHOP\\WarehouseManagerForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\DUY-SHOP\\DUY-SHOP\\WarehouseManagerForm.cs",
+              "RelativeToolTip": "DUY-SHOP\\WarehouseManagerForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:34:23.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
